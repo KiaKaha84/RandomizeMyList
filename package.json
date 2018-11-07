@@ -1,0 +1,12 @@
+{
+  "name": "Randomize-My-List",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  },
+  "author": "Maciej Weber-Dabrowski",
+  "repository": "https://github.com/KiaKaha84/RandomizeMyList.git"
+}
